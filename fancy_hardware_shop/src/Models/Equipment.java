@@ -1,7 +1,7 @@
 package Models;
 
 public class Equipment {
-    private double price;
-    private int click_frequence;
-    private int article_nr;
+    protected double price;
+    protected int click_frequence;
+    protected int article_nr;
 }
